@@ -1,0 +1,197 @@
+body {
+    background-color: hsl(180, 52%, 96%);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-image: url(./bg-header-desktop.png);
+    background-repeat: no-repeat;
+    height: 6rem;
+    background-color: hsl(180, 29%, 50%);
+}
+.smallcontainer{
+    width: 800px;
+    height:80px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.image{
+    width: 70px;
+    height: 65px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.text{
+    display: flex;
+    /* background-color: red; */
+    width: 20px;
+    height: 40px;
+    color: lightseagreen;
+    margin-top: -10px;
+    margin-left: 30px;
+}
+.one{
+    margin-top: 17px;
+}
+.btn{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.btn-one{
+    border: none;
+    /* outline: none; */
+    background-color:  #5ba4a4;
+    border-radius: 7px;
+    text-align: center;
+    font-weight: 900;
+    font-size: .625rem;
+    color: #fff;
+    width: 10rem;
+}
+.btn-two{
+    margin-left: 10px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 900;
+    font-size: .625rem;
+}
+.dev{
+    margin-top: 33px;
+    margin-left: -20px;
+}
+.ago p{
+    margin-top: 60px;
+    margin-left: -220px;
+    opacity: 0.2px;
+}
+#ago2 {
+    margin-left: -10rem;
+}
+.front{
+    display: flex;
+    text-align: center;
+    margin-top: 35px;
+    height: 30px;
+    margin-left: 160px;
+    /* background-color: #5ba4a4;  */
+}
+#front2{
+    margin-left: 11.4rem;
+}
+#btn5{
+    width: 65px;
+}
+#btn7{
+    width: 45px;
+}
+#front3{
+    margin-left: 11.2rem;
+}
+#front4{
+    margin-left: 11.9rem;
+}
+#front5{
+    margin-left: 10.1rem;
+}
+#ago5{
+    margin-left: 4.3rem;
+}
+#front6{
+    margin-left: 13.2rem;
+}
+#ago6{
+    margin-left: 0.4rem;
+}
+#ago7{
+    margin-left: 5rem;
+}
+#front7{
+    margin-left: 12.6rem;
+}
+#btn6{
+    width: 4rem;
+}
+#front8{
+    margin-left: 13.1rem;
+}
+#btnn{
+    width: 4rem;
+}
+#ago9{
+    margin-left: 3.8rem;
+}
+#front9{
+    margin-left: 10.7rem;
+}
+#btnnn{
+    width: 4.3rem;
+}
+#ago10{
+    margin-left: 6.4rem;
+}
+#front10{
+    margin-left: 5.1rem;
+}
+.btn-three{
+    width: 60px;
+    text-align: center;
+    background-color:rgb(221, 238, 237);
+    color: #5ba4a4;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.btn-four{
+    width: 50px;
+    text-align: center;
+    background-color:rgb(221, 238, 237); 
+    color: #5ba4a4; 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.btn-five{
+    width: 40px;
+    text-align: center;
+    background-color:rgb(221, 238, 237);
+    color: #5ba4a4;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left:5px;
+}
+.btn-six{
+    width: 50px;
+    text-align: center;
+    background-color:rgb(221, 238, 237);
+    color: #5ba4a4;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 8px;
+}
+.btn-seven{
+    width: 70px;
+    text-align: center;
+    background-color:rgb(221, 238, 237);
+    color: #5ba4a4;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 10px;
+}    
